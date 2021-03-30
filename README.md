@@ -1,0 +1,2 @@
+# pomaranga
+ćwiczenie TCWAK
